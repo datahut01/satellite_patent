@@ -1,3 +1,5 @@
+# 모델명은 변경이 가능
+# 단, 최신 gpt 모델의 경우, temperature 설정이 불필요함.
 # 원격탐사를 위한 프롬프트
 def check_satellite_remote_sensing_relevance2(
     patent_id: str,
